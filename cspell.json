@@ -1,0 +1,7 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "ignoreRegExpList": [
+    "[぀-ヿ㐀-䶿一-鿿＀-￯]+"
+  ]
+}
